@@ -13,8 +13,15 @@ There are several features in the system. The plant caretaker checks the soil mo
 3) Run the system! 
 
 *Red light = not enough water supply 
+
 *Green light = enough water supply and/or the plant is watered 
+
 *Sound = plant has been successfully watered 
+
+Low-fidelity prototype:
+
+![Untitled](https://github.com/user-attachments/assets/51305e24-7350-4c5a-ad87-9f9ec5d57968)
+
 
 Tips: To make sure your plant is in the healthiest state: Make sure your plant get adequate sun light for their type! 
 
@@ -32,11 +39,6 @@ Tips: To make sure your plant is in the healthiest state: Make sure your plant g
 - **User Experience** - It is entertaining. The sound notification it produces provide a entertaining way for the user to know that their plant is watered. User can also get creative with the sound notification by changing the note.
 - **Feedback** - The Plant Caretaker gives the user feedbacks. It plays a sound to let them know the plant is successfully watered, in addition, the user also get a visual aid of the water flowing from the water supply to the plant through the clear plastic tube.
 
-
-figure 1. low-fidelity prototype
-
-
-### The Product
 
 ### Maker’s Manual
 
